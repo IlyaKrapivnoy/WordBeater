@@ -25,10 +25,10 @@ const message = document.querySelector('#message');
 const second = document.querySelector('#second');
 
 const words = [
-    'Swimming',
+    'Pool',
     'Gym',
     'Sport',
-    'Audiobook',
+    'Audio',
     'Guide',
     'Winter',
     'Goals',
@@ -42,15 +42,15 @@ const words = [
     'Ease',
     'Unity',
     'Decent',
-    'Framework',
-    'Javascript',
+    'Frame',
+    'Script',
     'String',
     'What',
     'Color',
     'Whatever',
     'Soon',
     'Class',
-    'Powerline',
+    'Power',
     'Karate'
 ];
 
